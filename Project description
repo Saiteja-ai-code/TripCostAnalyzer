@@ -1,0 +1,28 @@
+# Trip Cost Analyzer
+
+Trip Cost Analyzer is a Python project that calculates the total cost of a trip.
+
+## Features
+
+- Enter starting location
+- Enter destination
+- Enter vehicle type and company
+- Calculate fuel cost using vehicle mileage
+- Calculate toll charges
+- Calculate vehicle rental cost
+- Calculate total trip cost
+
+## Technologies Used
+
+- Python
+
+## How to Run
+
+1. Download or clone this repository.
+2. Open the project in VS Code.
+3. Run `main.py`.
+4. Enter the required trip details.
+
+## Author
+
+Sai Teja
